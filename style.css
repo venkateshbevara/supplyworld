@@ -57,9 +57,9 @@ marquee
 .d3
 {
   padding:50px;
-  background-image: url('pexels-s-migaj-750854.jpg');
-  margin-left: 100px;
-  margin-right: 600px;
+  background-image: url('pexels-pixabay-462030.jpg');
+  width:40%;
+  height:100%;
 }
 
 p::before
