@@ -1,0 +1,72 @@
+
+body {
+color:#5a8a82;
+background-image: url('pexels-s-migaj-750854.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
+h3
+{
+  color:#070d63;
+}
+tr{
+  color:white;
+}
+tr::first-letter
+{
+  color:green;
+}
+a{
+  color:#fff;
+   text-shadow: 2px 2px #070d63 ;
+}
+.d1
+{
+  border: solid #070d63 2px;
+  text-align: center;
+  color:white;
+}
+p{
+  color:#fc4503;
+  font-size: 18px;
+}
+
+hr
+{
+  height: 0vh;
+}
+caption
+{
+  color:red;
+  text-shadow:1px 0px 15px white ;
+  font-size: 20px;
+  font-weight: 1200;
+}
+marquee
+{
+  scroll-behavior: smooth;
+  height: 30px;
+  color: yellow;
+  margin-bottom: 0px;
+}
+.d2
+{
+ padding: 5px;
+}
+.d3
+{
+  padding:50px;
+  background-image: url('pexels-s-migaj-750854.jpg');
+  margin-left: 100px;
+  margin-right: 600px;
+}
+
+p::before
+{
+  content: "♥ ";
+}
+p::after
+{
+  content: ".";
+}
